@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-22",
+  "base_commit": "7b2efeb8b32e71e04bed4b837d324c94c447b1da",
+  "csv_rows": 1,
+  "csv_status": "draft",
+  "csv_published": false,
+  "price": "450.00",
+  "required_store_currency": "TWD",
+  "backend_currency_verified": false,
+  "product_listing_verified": false,
+  "sample_product_link_verified": false,
+  "local_links_missing": [],
+  "images": [
+    {
+      "file": "Shopee/01-商品主圖.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 290165
+    },
+    {
+      "file": "Shopee/02-檢驗數據與條件.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 245222
+    },
+    {
+      "file": "Shopee/03-配方與材料圖解.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 309462
+    },
+    {
+      "file": "Shopee/04-適用情境.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 375348
+    },
+    {
+      "file": "Shopee/05-使用方法.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 319589
+    },
+    {
+      "file": "Shopee/06-規格與成分.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 199567
+    },
+    {
+      "file": "Shopee/07-作用時間怎麼看.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 238231
+    },
+    {
+      "file": "Shopee/08-使用提醒.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 321388
+    },
+    {
+      "file": "Shopee/09-選購重點.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 222053
+    },
+    {
+      "file": "Shopee-v3/01-商品主圖.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 290165
+    },
+    {
+      "file": "Shopee-v3/02-檢驗數據與條件.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 245222
+    },
+    {
+      "file": "Shopee-v3/03-配方與材料圖解.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 309462
+    },
+    {
+      "file": "Shopee-v3/04-適用情境.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 375348
+    },
+    {
+      "file": "Shopee-v3/05-使用方法.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 319589
+    },
+    {
+      "file": "Shopee-v3/06-規格與成分.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 199567
+    },
+    {
+      "file": "Shopee-v3/07-作用時間怎麼看.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 238231
+    },
+    {
+      "file": "Shopee-v3/08-使用提醒.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 321388
+    },
+    {
+      "file": "Shopee-v3/09-選購重點.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "bytes": 222053
+    },
+    {
+      "file": "Shopify/spray-desktop-2000x800.jpg",
+      "size": [
+        2000,
+        800
+      ],
+      "bytes": 319102
+    },
+    {
+      "file": "Shopify/spray-mobile-1200x1500.jpg",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 299759
+    },
+    {
+      "file": "Shopify/spray-product-2048.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "bytes": 149619
+    }
+  ],
+  "packages": [
+    {
+      "file": "STC-安鋅-Shopee素材.zip",
+      "entries": 26,
+      "sha256": "d0d3e33b4f210d48d239867d17ac8f9cbb4ec0577d3ead5a9023d19c5cb54949"
+    },
+    {
+      "file": "STC-安鋅-Shopify素材.zip",
+      "entries": 13,
+      "sha256": "1d772798e634198725d1aacbdf066919fb396ffd31b2072ddb1f9ac4e411d0ad"
+    },
+    {
+      "file": "STC-安鋅-可編輯SVG.zip",
+      "entries": 16,
+      "sha256": "bf1eac3f80babec2002b89613c0baca61dfbd5798990fafb9dceb620d50a4842"
+    },
+    {
+      "file": "STC-安鋅-獨立情境與材料圖.zip",
+      "entries": 16,
+      "sha256": "ce07aaed20cb25dd27ff2dbf7a9dfbceb160b8f8f6b9d83797e29b1b6ea7fafe"
+    }
+  ]
+}
