@@ -1,0 +1,4 @@
+使用內建imagegen；局部修正原單瓶照片的瓶底，保留噴頭、比例、STC標誌、中文品名及ZnO標示，將底部截斷雜字修為連續青綠色標籤、圓滑白色瓶底及接觸陰影。另製透明背景版本供版面嵌入。
+白底原圖：assets/spray-200-clear-base.png
+透明圖：assets/spray-200-clear-cutout.png
+全站既有裁切瓶器已逐一替換；JPG、PNG、SVG及下載包同步。
