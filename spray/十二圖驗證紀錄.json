@@ -1,0 +1,48 @@
+{
+  "twelve_images": 12,
+  "legacy_shopee_images": 9,
+  "shopify_images": 3,
+  "plain_images": [
+    "01",
+    "02",
+    "07",
+    "08",
+    "09"
+  ],
+  "image_02": "one bottle plus one generated conceptual carton",
+  "brand_story_CJK_characters": 500,
+  "word_pages_verified": 5,
+  "word_renderer": "Microsoft Word native PDF export after packaged LibreOffice renderer was unavailable",
+  "csv_rows": 1,
+  "csv_draft": true,
+  "currency_backend_verified": false,
+  "listing_status_verified": false,
+  "missing_local_links": [],
+  "packages": [
+    {
+      "name": "STC-安鋅-Shopee素材.zip",
+      "files": 30,
+      "sha256": "f6c9490a190787960a5ba5a3a8b70392df05f211e16ffa31dd810d7963b7f0eb"
+    },
+    {
+      "name": "STC-安鋅-Shopify素材.zip",
+      "files": 17,
+      "sha256": "27318bfc2b8b339b0595cf7588b4aa342abbdb2f19353d58f95c365325ebfc87"
+    },
+    {
+      "name": "STC-安鋅-十二圖與完整文案.zip",
+      "files": 45,
+      "sha256": "3fd289a66b740dc553a4e98be6f9880fec7f9a9e3ae63828a40cf8206c389bec"
+    },
+    {
+      "name": "STC-安鋅-可編輯SVG.zip",
+      "files": 16,
+      "sha256": "bf1eac3f80babec2002b89613c0baca61dfbd5798990fafb9dceb620d50a4842"
+    },
+    {
+      "name": "STC-安鋅-獨立情境與材料圖.zip",
+      "files": 16,
+      "sha256": "ce07aaed20cb25dd27ff2dbf7a9dfbceb160b8f8f6b9d83797e29b1b6ea7fafe"
+    }
+  ]
+}
